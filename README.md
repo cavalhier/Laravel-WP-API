@@ -97,6 +97,4 @@ WpApi::search($post);
 WpApi::archive($year, $month, $page);
 
 ```
-# LabchainWpApi
-# LabchainWpApi
-# LabchainWpApi
+
