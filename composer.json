@@ -1,0 +1,26 @@
+{
+    "name": "Labchain/laravel-wp-api",
+    "description": " Modified Laravel package for the Wordpress JSON REST API",
+    "keywords": ["laravel", "package", "wordpress", "API", "REST"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gabriel Ramos",
+            "email": "gabriel@suscitar.com.br"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.0",
+        "illuminate/support": "~5.2",
+        "guzzlehttp/guzzle": "~6.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "4.8.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Threesquared\\LaravelWpApi\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
