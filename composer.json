@@ -1,5 +1,5 @@
 {
-    "name": "Labchain/laravel-wp-api",
+    "name": "labchain/laravel-wp-api",
     "description": " Modified Laravel package for the Wordpress JSON REST API",
     "keywords": ["laravel", "package", "wordpress", "API", "REST"],
     "license": "MIT",
@@ -19,7 +19,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Threesquared\\LaravelWpApi\\": "src/"
+            "labchain\\LaravelWpApi\\": "src/"
         }
     },
     "minimum-stability": "stable"
